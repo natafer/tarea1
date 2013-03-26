@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1364259399 source:c:\users\nata\desktop\aje\main.cpp
+	<iostream>
+	<stdlib.h>
+	<time.h>
+
