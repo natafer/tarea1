@@ -10,7 +10,7 @@ void inicializar(int tablero[7][7],int x,int y)
 
     for(i=0;i<8;i++)
     {
-        for(j=0;j<8;j++)
+        for(j=0;j<8;j++)  // aqui hay que probar
         {
             tablero[i][j]=0;
 
